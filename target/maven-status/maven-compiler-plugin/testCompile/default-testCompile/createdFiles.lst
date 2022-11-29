@@ -1,0 +1,4 @@
+stepdefinitions\Hooks.class
+stepdefinitions\AutomationStepDefinitions.class
+pages\AutomationPage.class
+pages\MycoursedemyPage.class
